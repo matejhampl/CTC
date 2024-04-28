@@ -1,0 +1,17 @@
+{
+    "fuel_pricing": [2.5, 2.7, 1.8, 0.1],
+    "fuel_type_chance": [0.2, 0.3, 0.4, 0.1],
+    "fueling_time": [
+      {"min": 2, "max": 5},
+      {"min": 3, "max": 6},
+      {"min": 4, "max": 7},
+      {"min": 5, "max": 7}
+    ],
+    "station_counts": [4, 4, 2, 2],
+    "cash_register_count": 4,
+    "checkout_time": {"min": 1, "max": 3},
+    "car_spawn_chance": 0.4,
+    "car_wait_time_bias": 1,
+    "simulation_length": 300
+  }
+  
