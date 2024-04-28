@@ -1,4 +1,4 @@
-#Gas Station Simulation for CTC Course
+# Gas Station Simulation for CTC Course
 A simulation with some extended features for a more realistic experience, the simulation includes:
 
 1. Checkout processing for refueling payments.
